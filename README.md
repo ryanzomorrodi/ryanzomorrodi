@@ -1,4 +1,3 @@
-```html
 <style>
   html {
     color: #1a1a1a;
@@ -264,5 +263,3 @@ class="sourceCode yaml"><code class="sourceCode yaml"><span id="cb1-1"><a href="
 
 </body>
 </html>
-
-```
